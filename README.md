@@ -1,10 +1,6 @@
-# React Movie App
+## React Movie App
 
 ![movies](https://user-images.githubusercontent.com/101933251/172226394-6bf926c5-1a5a-49cf-85fb-292b23a01703.JPG)
-
-## Available Scripts
-
-In the project directory, you can run:
 
 ### `npm start`
 
