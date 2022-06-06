@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# React Movie App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![movies](https://user-images.githubusercontent.com/101933251/172226394-6bf926c5-1a5a-49cf-85fb-292b23a01703.JPG)
 
 ## Available Scripts
 
@@ -9,7 +9,9 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
++ Firstly run: `npx json-server --watch src/api/movies.json --port 3001`
++ Then run: `npm run start`
++ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
